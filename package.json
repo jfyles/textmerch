@@ -1,0 +1,19 @@
+{
+  "name": "textmerch",
+  "version": "1.0.0",
+  "description": "Textmerch is a platform that allows commerce businesses to accept sales of products through SMS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfyles/textmerch.git"
+  },
+  "author": "@justifyles and @samdtoole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jfyles/textmerch/issues"
+  },
+  "homepage": "https://github.com/jfyles/textmerch#readme"
+}
